@@ -5,7 +5,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #14142c;
+    background-color: #020505;
     
     flex-direction: column;
     display: flex;
@@ -41,7 +41,7 @@ main {
     color: #b0a8ffff;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     max-width: 600px;
-    background-color: #1f1c3a6b;
+    background-color: #353738;
 }
 
 .footer-text {
