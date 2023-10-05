@@ -5,7 +5,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #020505;
+    background-color: #000000;
     
     flex-direction: column;
     display: flex;
@@ -13,7 +13,7 @@ body {
 
 header {
     background-color: #2521476b;
-    color: #b0a8ffff;
+    color: #ffffff;
     padding: 10px;
     display: flex;
     justify-content: space-between;
@@ -33,22 +33,23 @@ main {
     padding: 2rem;
 }
 
+
 .tutorial {
     margin-bottom: 2rem;
     padding: 1rem;
-    border: 1px solid #b0a8ffff;
+    border: 1px solid #ffffff;
     border-radius: 5px;
-    color: #b0a8ffff;
+    color: #ffffff;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     max-width: 600px;
-    background-color: #353738;
+    background-color: #1f1c3a6b;
 }
 
 .footer-text {
     text-align: center;
     padding: 1rem 0;
     background-color: #201d3d6b;
-    color: #b0a8ffff;
+    color: #ffffff;
 }
 
 
@@ -81,7 +82,7 @@ main {
     margin:  0 auto;
     display: block;
     background-color: #2521476b;
-    color: #b0a8ffff;
+    color: #ffffff;
     border: none;
     padding: 0.5rem 4rem;
     border-radius: 5px;
@@ -91,7 +92,7 @@ main {
 
 .open-modal:hover,
 .close-modal:hover {
-    background-color: #b0a8ffff;
+    background-color: #ffffff;
     color: #2521476b;
 }
 
@@ -100,7 +101,7 @@ main {
     margin:  0 auto;
     padding: 0.7rem 1rem;
     background-color: #2521476b;
-    color: #b0a8ffff;
+    color: #ffffff;
     text-decoration: none;
     border-radius: 5px;
     transition: background-color 0.3s ease, color 0.3s ease;
@@ -109,7 +110,7 @@ main {
 
 hr {
     border: none;
-    border-top: 2px solid #b0a8ffff;
+    border-top: 2px solid #ffffff;
     margin: 20px 0;
 }
 
@@ -121,7 +122,7 @@ hr {
     width: 80%;
     height: 100%;
     height: 450px;
-    border: 2px solid #b0a8ffff;
+    border: 2px solid #ffffff;
     border-radius: 10px;
     padding-right: 2px;
     
@@ -131,14 +132,14 @@ hr {
     max-width: 100%;
     height: auto;
     width: 90%;
-    border: 2px solid #b0a8ffff;
+    border: 2px solid #ffffff;
     border-radius: 10px;
 }
 
 .gif-hotspot {
     width: 80%;
     height: 90%;
-    border: 2px solid #b0a8ffff;
+    border: 2px solid #ffffff;
     border-radius: 10px;
     padding-right: 2px;
     
